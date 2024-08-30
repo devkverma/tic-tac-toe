@@ -84,9 +84,6 @@ The main game loop handles user input, AI moves, and updates the display. It man
 
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
